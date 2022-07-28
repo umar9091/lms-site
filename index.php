@@ -1,6 +1,3 @@
-Hello dear
-
-
 <?php
 /**
  * CodeIgniter
